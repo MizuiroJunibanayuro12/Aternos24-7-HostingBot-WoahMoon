@@ -2,14 +2,14 @@
   "name": "MIZUASLIJAWA",
   "bot-account": {
     "username": "MIZUASLIJAWA",
-    "password": "",
+    "password": "122110",
     "type": "offline"
   },
   "server": {
-    "ip": "morldmizu.aternos.me",
+    "ip": "woahsmp191.aternos.me",
     "port": 40119,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "122110"
     },
     "anti-afk": {
       "enabled": true,
